@@ -14,7 +14,7 @@ h2, p {
 #search {
     width: 800px;
     height: 35x;
-    padding: 0;
+    padding: 0 0 0 10px;
     border: 1px solid #ccc;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
@@ -31,4 +31,5 @@ h2, p {
     box-sizing: border-box;
     color: rgba(0, 0, 0, 0.6);
     background-color: #fff;
+    cursor: pointer;
 }
